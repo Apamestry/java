@@ -1,1 +1,1 @@
-This repositroy is for backup purpose for may practical codes
+This repositroy is for backup purpose for my practical codes
